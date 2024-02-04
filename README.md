@@ -1,5 +1,4 @@
-# Weather Forecast App
-<img src="assests/cloudyyy.png" alt="Weather Forecast Image" width="60" height="60">
+# Weather Forecast App <img src="assets/cloudyyy.png" alt="Weather Forecast Image" width="60" height="60">
 
 ## Introduction
 
