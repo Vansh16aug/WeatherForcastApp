@@ -1,5 +1,5 @@
-# Weather Forecast App
-<img src="assests/cloudyyy.png" alt="Weather Forecast Image" width="60" height="60">
+# Weather Forecast App <img src="assests/cloudyyy.png" alt="Weather Forecast Image" width="60" height="60">
+
 ## Introduction
 
 Welcome to the Weather Forecast App! This project is a simple web application that allows users to check the weather forecast for a specific location. The app is built using HTML, CSS, and JavaScript to create a dynamic and user-friendly interface. It also utilizes a weather API to fetch real-time weather data.
